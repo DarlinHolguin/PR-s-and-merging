@@ -1,3 +1,3 @@
 # PR-s-and-merging
 
-I'm making a new feature
+I'm making a new feature.
